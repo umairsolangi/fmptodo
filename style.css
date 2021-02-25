@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(2, 251, 255);
+}
+div{
+            text-align: center;
+        }
+.btn{
+    background-color:rgb(255, 255, 255);
+    border: none;
+    padding: 3px;
+    margin: 10px;
+    color: rgb(255, 2, 175);
+    width: 60px;
+}
+.btn:hover{
+    background-color: rgb(255, 2, 175);
+    color: rgb(255, 255, 255);
+}
+.li-item{
+    background-color: rgb(2, 251, 255);
+    list-style-type: none;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
